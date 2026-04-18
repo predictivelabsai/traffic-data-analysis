@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Local session / tool artefacts
+.playwright-mcp/
+.sesskey
+data/
+
 # C extensions
 *.so
 
